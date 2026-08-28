@@ -1,0 +1,4 @@
+30 seconds
+I am Felix, in Columbia, South Carolina. I just earned Security+. I do not have a SOC or help-desk job behind me. I do have a public demo of a marketplace app I built, and a small home lab where I practice reading Windows logs and writing the case down. I am looking for a junior seat where I can do that work for real.
+
+Help-desk years: zero. I will not put a title I did not hold.

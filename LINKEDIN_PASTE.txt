@@ -1,0 +1,13 @@
+HEADLINE (pick one)
+
+Security+ | Junior cyber / IT support | Columbia, SC
+
+ABOUT
+
+I earned CompTIA Security+ and I am looking for a first seat in cybersecurity or IT support.
+
+I do not have a help-desk title. I do have a current Security+ badge, a public product prototype (SHOWUP — a home-services demo at showup-wheat.vercel.app), and a small home lab where I practice reading Windows logs and writing the case down.
+
+I build in public on github.com/felixch9. English and Spanish. Columbia, South Carolina. Open to remote.
+
+If a posting asks for years of service-desk experience, the honest number is zero. I would rather start there than stretch it.
