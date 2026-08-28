@@ -1,0 +1,2 @@
+Shared responsibility, Zero Trust, CIA, identity as perimeter, Entra / Defender / Sentinel / Purview names.
+I do not hold SC-900. Security+ is the credential I hold.
